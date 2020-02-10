@@ -282,3 +282,5 @@ These are some additional resources that you can use to make your site even bett
 Now that you have finished building a website, you should share your beautiful creation—because your site is on the internet, you can share it with anyone who is also online! Remember, it's as easy as giving them your URL!
 
 <!--more-->
+
+This workshop was created by [@maxwofford](https://github.com/MaxWofford) for Hack Club. Full credits go to him and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
