@@ -108,17 +108,6 @@ bot.on('message', message => {
 bot.login('token')
 ```
 
-# Additional Dependencies
-
-More dependencies can be installed on Repl.it using the packages tab on the left hand side. It looks like a box. You can search up any package you want there and press install.
-
-Here is a list of the other packages that will help to speed up `discord.js`:
-
-- uws
-- erlpack
-- sodium
-
-
 -----
 
 This workshop was created by [@hickorysb](https://github.com/hickorysb) for Hack Club. Full credits go to him and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
