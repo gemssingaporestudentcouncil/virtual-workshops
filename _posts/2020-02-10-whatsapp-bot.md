@@ -3,7 +3,7 @@ title: Whatsapp Bots with Twillo
 tags: JS Chatbot
 ---
 
-This is a workshop to help you make a something like this, and make your own chatbots on WhatsApp, in just 30 minutes/ 
+This is a workshop to help you make a something like this, and make your own chatbots on WhatsApp, in just 30 minutes.
 
 [Twilio](https://twilio.com) had an official WhatsApp API. With it we will be building a [Wikipedia bot on WhatsApp](https://wikibot.4ty2.fun) 👇
 
@@ -145,4 +145,4 @@ All code for the original WikiBot is on [GitHub](https://github.com/jajoosam/wik
 
 -----
 
-This workshop was created by [@jajoosam](https://github.com/jajoosam) for Hack Club. Full credits go to him and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
+This workshop was created by [@jajoosam](https://github.com/jajoosam) for Hack Club. Full credits go to they and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.

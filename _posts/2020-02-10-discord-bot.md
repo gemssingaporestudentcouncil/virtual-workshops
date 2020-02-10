@@ -110,4 +110,4 @@ bot.login('token')
 
 -----
 
-This workshop was created by [@hickorysb](https://github.com/hickorysb) for Hack Club. Full credits go to him and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
+This workshop was created by [@hickorysb](https://github.com/hickorysb) for Hack Club. Full credits to all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.

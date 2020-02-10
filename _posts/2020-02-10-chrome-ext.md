@@ -193,4 +193,4 @@ The next step is to make it your own project. Want to add chat? Google how to! N
 
 -----
 
-This workshop was created by [@shmishtopher](https://github.com/shmishtopher) for Hack Club. Full credits go to him and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
+This workshop was created by [@shmishtopher](https://github.com/shmishtopher) for Hack Club. Full credits to all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
