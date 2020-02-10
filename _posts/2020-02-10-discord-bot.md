@@ -117,6 +117,8 @@ Here is a list of the other packages that will help to speed up `discord.js`:
 - uws
 - erlpack
 - sodium
+
+
 -----
 
-This workshop was created by [@lachlanjc](https://github.com/lachlanjc) for Hack Club. Full credits go to him and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
+This workshop was created by [@hickorysb](https://github.com/hickorysb) for Hack Club. Full credits go to him and all co-authors. Their original work is licensed under the CC BY-SA 4.0 which allows for the work to be redistributed.
