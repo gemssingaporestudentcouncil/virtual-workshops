@@ -1,6 +1,6 @@
 ---
 title: Personal Website
-tags: HTML, CSS
+tags: HTML CSS
 ---
 
 # Personal Website
