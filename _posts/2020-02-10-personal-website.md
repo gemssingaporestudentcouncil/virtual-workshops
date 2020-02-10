@@ -1,11 +1,9 @@
 ---
-title: Personal Website
+title: Your First Website
 tags: HTML CSS
 ---
 
-# Personal Website
-
-Prophet Orpheus, the Hack Club mascot, is here to guide you through making your own personal website.
+Prophet Orpheus, a friendly dinosaur, is here to guide you through making your own personal website.
 
 It will look something like this:
 
