@@ -4,7 +4,7 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Virtual Workshops - GEMS Singapore Innovation Week 2020
+title   : Virtual Workshops
 description: > # this means to ignore newlines until "Language & timezone"
   Virtual Workshops for GEMS Singapore's Innovation Week 2020. Allowing students to learn from anywhere.
 
