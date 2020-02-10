@@ -1,6 +1,6 @@
 ---
 title: Create a Chrome Extension
-tags: HTML CSS
+tags: HTML CSS JS 
 ---
 
 # Building a Chrome Extension
