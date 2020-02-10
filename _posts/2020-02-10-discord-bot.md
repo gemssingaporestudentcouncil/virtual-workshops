@@ -91,7 +91,7 @@ Go to the [Discord Developers Page](https://discordapp.com/developers/applicatio
 
 # Final Source Code
 
-If you followed this workshop to a t, which is wrong. Then your code should look exactly like this:
+Your code should look something like this:
 
 ```js
 const Discord = require('discord.js')
