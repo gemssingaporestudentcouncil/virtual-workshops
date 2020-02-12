@@ -5,9 +5,9 @@ tags: Python CLI
 
 Let's build a "no internet" TRex Game with Python! We have a base project this workshop will run you through the code as well as give you the task of extending it!
 
-The source code is here: ![](https://github.com/terryyin/trex-game)
+The source code is ![here](https://github.com/terryyin/trex-game)
 
-Open it with ![](https://repl.it/github/terryyin/trex-game)
+Play the base game ![here](https://repl.it/github/terryyin/trex-game)
 
 ![](https://gemssingaporestudentcouncil.github.io/virtual-workshops/assets/python-dino-img/dino-game.png)
 
